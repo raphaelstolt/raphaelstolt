@@ -10,4 +10,4 @@ Ahoi mates 🏴‍☠️.
 
 📚 Books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, and `Hexagonal Architecture Explained`.
 
-📥 Reach me via [twitter.com/raphaelstolt](https://twitter.com/raphaelstolt) or [raphael.stolt@gmail.com](mailto:raphael.stolt@gmail.com).
+📥 Reach me via [x.com/raphaelstolt](https://x.com/raphaelstolt) or [raphael.stolt@gmail.com](mailto:raphael.stolt@gmail.com).
