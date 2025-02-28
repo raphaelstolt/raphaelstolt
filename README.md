@@ -8,6 +8,6 @@ Ahoi mates 🏴‍☠️.
 
 📝 I occasionally blog at [raphaelstolt.blogspot.com](https://raphaelstolt.blogspot.com).
 
-📚 Books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, and `Hexagonal Architecture Explained`.
+📚 Books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, `Understanding Eventsourcing`, and `Hexagonal Architecture Explained`.
 
 📥 Reach me via [x.com/raphaelstolt](https://x.com/raphaelstolt) or [raphael.stolt@gmail.com](mailto:raphael.stolt@gmail.com).
