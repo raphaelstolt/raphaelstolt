@@ -2,7 +2,7 @@ Ahoi mates 🏴‍☠️.
 
 # I'm a polyglot software developer currently working in Berlin, DE.
 
-📍Located in Berlin, DE.
+📍Located in Berlin, Europe.
 
 💻 File extensions I like to use are: `.php`, `.js`, `.vue`, `.py`, `.go`, and `.md`.
 
