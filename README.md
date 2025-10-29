@@ -1,5 +1,3 @@
-Ahoi mates 🏴‍☠️.
-
 # I'm a polyglot software developer currently working in Berlin, Europe.
 
 📍Located in Berlin, Europe.
