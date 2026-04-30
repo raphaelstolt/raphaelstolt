@@ -8,7 +8,7 @@
 
 🛸 I like to travel and attend tech conferences.
 
-📚 Books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, `Understanding Eventsourcing`, and `Hexagonal Architecture Explained`.
+📚 Tech books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, `Understanding Eventsourcing`, and `Hexagonal Architecture Explained`.
 
 👀 Interested in AI driven software development and street art.
 
