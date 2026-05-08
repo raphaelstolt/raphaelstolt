@@ -8,7 +8,7 @@
 
 🛸 I like to travel and attend tech conferences.
 
-🎶 I'm in love with Drum'n'Bass.
+🎶 I'm in love with Drum'n'Bass music.
 
 📚 Tech books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, `Understanding Eventsourcing`, and `Hexagonal Architecture Explained`.
 
