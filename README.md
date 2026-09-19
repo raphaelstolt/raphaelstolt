@@ -14,4 +14,6 @@
 
 👀 Interested in AI driven software development and street art.
 
+🎨 Collector of screen- and linocut prints.
+
 📥 Reach me via [x.com/raphaelstolt](https://x.com/raphaelstolt) or [raphael.stolt@gmail.com](mailto:raphael.stolt@gmail.com).
