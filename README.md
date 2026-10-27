@@ -2,7 +2,7 @@
 
 📍Located in Berlin, Europe.
 
-💻 File extensions I like to use are: `.php`, `.js`, `.vue`, `.py`, `.go`, and `.md`.
+💻 File extensions I like to use are: `.php`, `.rs`, `.js`, `.vue`, `.py`, `.go`, and `.md`.
 
 📝 I occasionally blog at [raphaelstolt.blogspot.com](https://raphaelstolt.blogspot.com).
 
