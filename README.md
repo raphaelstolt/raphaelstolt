@@ -16,4 +16,6 @@
 
 🎨 Collector of screen- and linocut prints.
 
+🍃 Initiator of [lean-packages](https://github.com/lean-packages).
+
 📥 Reach me via [dev-null.sh/raphaelstolt](https://dev-null.sh/@raphaelstolt) or [raphael.stolt@gmail.com](mailto:raphael.stolt@gmail.com).
