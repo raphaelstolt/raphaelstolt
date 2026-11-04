@@ -10,7 +10,7 @@
 
 🎶 I'm in love with Drum ’n’ Bass music.
 
-📚 Tech books I currently read are `Advanced Web Application Architecture`, `Powerful Command-Line Applications in Go`, `Understanding Eventsourcing`, and `Hexagonal Architecture Explained`.
+📚 Tech books I currently read are `Harness Engineering` and `Building AI applications with PHP`.
 
 👀 Interested in AI driven software development and street art.
 
